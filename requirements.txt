@@ -34,7 +34,6 @@ pypiwin32==223
 pypresence==4.2.0
 pyserial==3.5
 python-dateutil==2.8.2
-pywin32==301
 requests==2.25.1
 rfc3986==1.5.0
 rsa==4.7.2
